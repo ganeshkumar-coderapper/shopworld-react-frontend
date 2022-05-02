@@ -1,0 +1,11 @@
+.App {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  .my-carousel {
+    width: 400px;
+    height: 300px;
+    border: 1px solid #ccc;
+  }
+  
